@@ -1,0 +1,17 @@
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EeduSys.Repository.deps.json
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EeduSys.Repository.dll
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EeduSys.Repository.pdb
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.AssemblyInfo.cs
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.csproj.CopyComplete
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.dll
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\refint\EeduSys.Repository.dll
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.pdb
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\ref\EeduSys.Repository.dll
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\bin\Debug\net6.0\EeduSys.Repository.runtimeconfig.json
+C:\Users\Windows\source\repos\EduSys\EeduSys.Repository\obj\Debug\net6.0\EeduSys.Repository.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.deps.json
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.dll
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\bin\Debug\net6.0\EduSys.Core.pdb
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.AssemblyInfo.cs
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.dll
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\refint\EduSys.Core.dll
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\EduSys.Core.pdb
+C:\Users\Windows\source\repos\EduSys\EduSys.Core\obj\Debug\net6.0\ref\EduSys.Core.dll
